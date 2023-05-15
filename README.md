@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jintu Nath
-- 👀 I’m interested in Web-Development, DSA.
+- 👀 I’m interested in Web-Development, DSA,Machine Learning.
 - 🌱 I’m currently study B.Tech in Computer Science & Engineering.
 - 📫 How to reach me Guwahati, Assam, India
 
